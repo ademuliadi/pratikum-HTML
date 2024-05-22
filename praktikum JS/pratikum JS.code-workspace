@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/UTS_WEB"
+		},
+		{
+			"path": "D:/WEB JS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB JS"
+	}
+}
